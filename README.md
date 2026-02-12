@@ -7,6 +7,10 @@ The **Real Boolean Variable** for Google Tag Manager Server Container allows you
 1. Add the **Real Boolean Variable** to your GTM Server container.
 2. Choose whether the variable should return `true` or `false` by selecting the desired option in the template settings.
 
+## Useful links:
+
+- [Step-by-step guide on how to configure Real Boolean Variable](https://stape.io/helpdesk/documentation/real-boolean-variable)
+
 ## Open Source
 
 The **Real Boolean Variable** for GTM Server is developed and maintained by the [Stape Team](https://stape.io/) under the Apache 2.0 license.
